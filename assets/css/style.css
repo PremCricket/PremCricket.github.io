@@ -132,9 +132,16 @@ h3 {
     /*font-family: 'Lane', sans-serif;*/
     font-weight: 300;
     margin: 0;
-    color:red;
+    color:#800080;
 }
-h4,
+
+h7 {
+    /*font-family: 'Lane', sans-serif;*/
+    font-weight: 300;
+    margin: 0;
+    color:#red;
+}
+h7,
 h5 {
     /*font-family: 'roboto', sans-serif;*/
     font-weight: 300;
